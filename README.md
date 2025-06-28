@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL_HERE" alt="Your Name's Profile Picture" width="180px" style="border-radius: 50%;">
-  <h1>👋 Hi there, I'm [Your Name]!</h1>
+  <img src="https://drive.google.com/file/d/1RmPjqDn2cwtWRcQM8szBHGIxhYhASN3U/view?usp=drive_link" alt="Your Name's Profile Picture" width="180px" style="border-radius: 50%;">
+  <h1>👋 Hi there, I'm Derry Bandoh </h1>
   <p><h3>Backend Engineer | Passionate about Human-Centered Solutions</h3></p>
   <p>Welcome to my GitHub! I'm a dedicated learner in the ALX Backend Engineering program, driven by a profound desire to create solutions that are not just efficient, but genuinely **human-friendly**.</p>
 </div>
@@ -66,7 +66,7 @@
     </p>
   <p>
     <a href="https://github.com/Derry-Bandoh">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views">
+      <img src="https://komarev.com/ghpvc/?username=Derry-Bandoh&color=blue" alt="Profile views">
     </a>
   </p>
 </div>
